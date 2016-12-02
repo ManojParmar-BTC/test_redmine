@@ -1,8 +1,4 @@
 
-
-
-
-
 source 'https://rubygems.org'
 
 
