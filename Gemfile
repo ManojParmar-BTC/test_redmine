@@ -1,9 +1,3 @@
-
-
-
-
-
-
 source 'https://rubygems.org'
 
 
